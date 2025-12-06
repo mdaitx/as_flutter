@@ -1,6 +1,6 @@
-# as_projeto
+# as_flutter
 
-A new Flutter project.
+Projeto desenvolvido na cadeira de desenvolviment de sistemas moveis para a As
 
 ## Getting Started
 
